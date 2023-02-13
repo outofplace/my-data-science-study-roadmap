@@ -32,7 +32,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 |      | Title                                                                            | Author                             | Field(s)                                                                 |
 | :--: | -------------------------------------------------------------------------------- | :--------------------------------: | :----------------------------------------------------------------------: |
-|  📖  | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto | **[Reinforcement Learning](#reinforcement-learning)**                    |
+|  📖<br/>(26&nbsp;of&nbsp;545)  | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto | **[Reinforcement Learning](#reinforcement-learning)**                    |
 |  📚  | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                      | **[Probability Theory](#probability-theory), [Statistics](#statistics)** |
 |  📚  | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
 |  📚  | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
@@ -66,4 +66,4 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 |      | Title                                       | Author                             |
 | :--: | ------------------------------------------- | :--------------------------------: |
-|  📖  | **Reinforcement Learning: An Introduction** | Richard S. Sutton, Andrew G. Barto |
+|  📖<br/>(26&nbsp;of&nbsp;545)  | **Reinforcement Learning: An Introduction** | Richard S. Sutton, Andrew G. Barto |
