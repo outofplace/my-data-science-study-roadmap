@@ -30,13 +30,13 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 📖 – In progress  
 ✅ – Completed
 
-|      | Title                                                                            | Author                             | Field(s)                                                                 |
-| :--: | -------------------------------------------------------------------------------- | :--------------------------------: | :----------------------------------------------------------------------: |
-|  📖<br/>(26&nbsp;of&nbsp;545)  | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto | **[Reinforcement Learning](#reinforcement-learning)**                    |
-|  📚  | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                      | **[Probability Theory](#probability-theory), [Statistics](#statistics)** |
-|  📚  | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
-|  📚  | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
-|  📚  | **Introduction to Algebra. In three parts. Part 3. Basic structures of algebra** | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
+|                                | Title                                                                            | Author                             | Field(s)                                                                 |
+| :----------------------------: | -------------------------------------------------------------------------------- | :--------------------------------: | :----------------------------------------------------------------------: |
+| 📖<br/>(32&nbsp;of&nbsp;545)   | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto | **[Reinforcement Learning](#reinforcement-learning)**                    |
+| 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                      | **[Probability Theory](#probability-theory), [Statistics](#statistics)** |
+| 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
+| 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
+| 📚                             | **Introduction to Algebra. In three parts. Part 3. Basic structures of algebra** | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
 
 ## Mathematics
 
@@ -44,26 +44,26 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 |      | Title                                                                            | Author          |
 | :--: | -------------------------------------------------------------------------------- | :-------------: |
-|  📚  | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin |
-|  📚  | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin |
-|  📚  | **Introduction to Algebra. In three parts. Part 3. Basic structures of algebra** | A. I. Kostrikin |
+| 📚   | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin |
+| 📚   | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin |
+| 📚   | **Introduction to Algebra. In three parts. Part 3. Basic structures of algebra** | A. I. Kostrikin |
 
 ### Probability Theory
 
 |      | Title                                              | Author        |
 | :--: | -------------------------------------------------- | :-----------: |
-|  📚  | **Probability Theory and Mathematical Statistics** | V. E. Gmurman |
+| 📚   | **Probability Theory and Mathematical Statistics** | V. E. Gmurman |
 
 ### Statistics
 
 |      | Title                                              | Author        |
 | :--: | -------------------------------------------------- | :-----------: |
-|  📚  | **Probability Theory and Mathematical Statistics** | V. E. Gmurman |
+| 📚   | **Probability Theory and Mathematical Statistics** | V. E. Gmurman |
 
 ## Machine Learning
 
 ### Reinforcement Learning
 
-|      | Title                                       | Author                             |
-| :--: | ------------------------------------------- | :--------------------------------: |
-|  📖<br/>(26&nbsp;of&nbsp;545)  | **Reinforcement Learning: An Introduction** | Richard S. Sutton, Andrew G. Barto |
+|                              | Title                                       | Author                             |
+| :--------------------------: | ------------------------------------------- | :--------------------------------: |
+| 📖<br/>(32&nbsp;of&nbsp;545) | **Reinforcement Learning: An Introduction** | Richard S. Sutton, Andrew G. Barto |
