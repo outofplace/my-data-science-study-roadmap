@@ -24,7 +24,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 - **[Programming](#programming)**
   - **[Python](#python)**
 - **[Machine Learning](#machine-learning)**
-  - **[Machine Learning Fundamentals](#machine-learning-fundamentals)**
+  - **[Fundamentals](#fundamentals)**
   - **[Reinforcement Learning](#reinforcement-learning)**
 
 ## Roadmap
@@ -38,8 +38,8 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📖<br/>(38&nbsp;of&nbsp;545)   | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto | **[Reinforcement Learning](#reinforcement-learning)**                    |
 | 📚                             | **Data Science from Scratch**                                                    | Joel Grus                          | **[Python](#python)**                                                    |
 | 📚                             | **Python for Data Analysis**                                                     | Wes McKinney                       | **[Python](#python)**                                                    |
-| 📚                             | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                     | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**      |
-| 📚                             | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**      |
+| 📚                             | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                     | **[Machine Learning](#machine-learning)**                                |
+| 📚                             | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop              | **[Machine Learning](#machine-learning)**                                |
 | 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                      | **[Probability Theory](#probability-theory), [Statistics](#statistics)** |
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
 | 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
@@ -78,7 +78,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ## Machine Learning
 
-### Machine Learning Fundamentals
+### Fundamentals
 
 |      | Title                                                                  | Author                |
 | :--: | ---------------------------------------------------------------------- | :-------------------: |
