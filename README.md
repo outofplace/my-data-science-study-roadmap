@@ -63,6 +63,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                    |
 | 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                    |
 | 📚                             | **Introduction to Algebra. In three parts. Part 3. Basic structures of algebra** | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                    |
+| 📚                             | **Reinforcement Learning: Theory and Algorithms**                                | Alekh Agarwal, Nan Jiang, John Langford                                        | **[Reinforcement Learning](#reinforcement-learning)**                                      |
 
 ## Mathematics
 
@@ -138,6 +139,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 #### Reinforcement Learning
 
-|                              | Title                                       | Author(s)                          |
-| :--------------------------: | ------------------------------------------- | :--------------------------------: |
-| 📖<br/>(38&nbsp;of&nbsp;545) | **Reinforcement Learning: An Introduction** | Richard S. Sutton, Andrew G. Barto |
+|                              | Title                                             | Author(s)                               |
+| :--------------------------: | ------------------------------------------------- | :-------------------------------------: |
+| 📖<br/>(38&nbsp;of&nbsp;545) | **Reinforcement Learning: An Introduction**       | Richard S. Sutton, Andrew G. Barto      |
+| 📚                           | **Reinforcement Learning: Theory and Algorithms** | Alekh Agarwal, Nan Jiang, John Langford |
