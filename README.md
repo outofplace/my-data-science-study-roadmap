@@ -58,6 +58,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Gaussian Processes for Machine Learning**                                      | Carl Edward Rasmussen, Christopher K. I. Williams                              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                                             | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
+| 📚                             | **Hands-On Unsupervised Learning Using Python**                                  | Ankur A. Patel                                                                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                                                                  | **[Probability Theory](#probability-theory), [Statistics](#statistics)**                   |
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                    |
 | 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                    |
@@ -98,6 +99,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Introduction to Machine Learning with Python** | Andreas Mueller, Sarah Guido       |
 | 📚   | **Python Data Science Essentials**               | Alberto Boschetti, Luca Massaron   |
 | 📚   | **Data Wrangling with Python**                   | Jacqueline Kazil, Katharine Jarmul |
+| 📚   | **Hands-On Unsupervised Learning Using Python**  | Ankur A. Patel                     |
 
 ## Data Science
 
@@ -132,6 +134,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                                   |
 | 📚   | **Machine Learning Yearning**                                                    | Andrew Ng                                                      |
 | 📚   | **Gaussian Processes for Machine Learning**                                      | Carl Edward Rasmussen, Christopher K. I. Williams              |
+| 📚   | **Hands-On Unsupervised Learning Using Python**                                  | Ankur A. Patel                                                 |
 
 #### Reinforcement Learning
 
