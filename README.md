@@ -38,6 +38,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 |                                | Title                                                                            | Author                             | Field(s)                                                                               |
 | :----------------------------: | -------------------------------------------------------------------------------- | :--------------------------------: | :------------------------------------------------------------------------------------: |
 | 📖<br/>(38&nbsp;of&nbsp;545)   | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto | **[Reinforcement Learning](#reinforcement-learning)**                                  |
+| 📚                             | **Data Smart: Using Data Science to Transform Information into Insight**         | John W. Foreman                    | **[Data Science Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Data Science from Scratch**                                                    | Joel Grus                          | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Python for Data Analysis**                                                     | Wes McKinney                       | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                     | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                    |
@@ -82,10 +83,13 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Data Science Fundamentals
 
-|      | Title                         | Author       |
-| :--: | ----------------------------- | :----------: |
-| 📚   | **Data Science from Scratch** | Joel Grus    |
-| 📚   | **Python for Data Analysis**  | Wes McKinney |
+|      | Title                                                                    | Author          |
+| :--: | ------------------------------------------------------------------------ | :-------------: |
+| 📚   | **Data Smart: Using Data Science to Transform Information into Insight** | John W. Foreman |
+| 📚   | **Data Science from Scratch**                                            | Joel Grus       |
+| 📚   | **Python for Data Analysis**                                             | Wes McKinney    |
+
+
 
 ### Machine Learning
 
