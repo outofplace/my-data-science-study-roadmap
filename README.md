@@ -53,6 +53,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop                                                          | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                                                | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville                                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
+| 📚                             | **Machine Learning Yearning**                                                    | Andrew Ng                                                                      | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                                             | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                                                                  | **[Probability Theory](#probability-theory), [Statistics](#statistics)**                   |
@@ -126,6 +127,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville                 |
 | 📚   | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                             |
 | 📚   | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                                   |
+| 📚   | **Machine Learning Yearning**                                                    | Andrew Ng                                                      |
 
 #### Reinforcement Learning
 
