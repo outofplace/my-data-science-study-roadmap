@@ -45,6 +45,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                    | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                    |
 | 📚                             | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop                             | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                    |
 | 📚                             | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                    |
+| 📚                             | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville    | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                    |
 | 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                                     | **[Probability Theory](#probability-theory), [Statistics](#statistics)**               |
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                                   | **[Algebra](#algebra)**                                                                |
 | 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                                   | **[Algebra](#algebra)**                                                                |
@@ -103,6 +104,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                    |
 | 📚   | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop                             |
 | 📚   | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                   |
+| 📚   | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville    |
 
 #### Reinforcement Learning
 
