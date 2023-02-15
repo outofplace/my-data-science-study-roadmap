@@ -36,6 +36,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | :----------------------------: | -------------------------------------------------------------------------------- | :--------------------------------: | :----------------------------------------------------------------------: |
 | 📖<br/>(38&nbsp;of&nbsp;545)   | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto | **[Reinforcement Learning](#reinforcement-learning)**                    |
 | 📚                             | **Data Science from Scratch**                                                    | Joel Grus                          | **[Python](#python)**                                                    |
+| 📚                             | **Python for Data Analysis**                                                     | Wes McKinney                       | **[Python](#python)**                                                    |
 | 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                      | **[Probability Theory](#probability-theory), [Statistics](#statistics)** |
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
 | 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                    | **[Algebra](#algebra)**                                                  |
@@ -67,9 +68,10 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Python
 
-|      | Title                         | Author    |
-| :--: | ----------------------------- | :-------: |
-| 📚   | **Data Science from Scratch** | Joel Grus |
+|      | Title                         | Author       |
+| :--: | ----------------------------- | :----------: |
+| 📚   | **Data Science from Scratch** | Joel Grus    |
+| 📚   | **Python for Data Analysis**  | Wes McKinney |
 
 ## Machine Learning
 
