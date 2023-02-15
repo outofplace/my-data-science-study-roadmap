@@ -44,6 +44,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Python Data Science Handbook**                                                 | Jake VanderPlas                                                | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
 | 📚                             | **Python Data Science Essentials**                                               | Alberto Boschetti, Luca Massaron                               | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
 | 📚                             | **Data Wrangling with Python**                                                   | Jacqueline Kazil, Katharine Jarmul                             | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **Applied Predictive Modeling**                                                  | Max Kuhn, Kjell Johnson                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **An Introduction to Statistical Learning**                                      | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
@@ -112,6 +113,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 |      | Title                                                                            | Author(s)                                                      |
 | :--: | -------------------------------------------------------------------------------- | :------------------------------------------------------------: |
+| 📚   | **Applied Predictive Modeling**                                                  | Max Kuhn, Kjell Johnson                                        |
 | 📚   | **An Introduction to Statistical Learning**                                      | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
 | 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman              |
 | 📚   | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                                 |
