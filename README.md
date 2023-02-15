@@ -35,26 +35,27 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 📖 – In progress  
 ✅ – Completed
 
-|                                | Title                                                                            | Author(s)                                         | Field(s)                                                                                   |
-| :----------------------------: | -------------------------------------------------------------------------------- | :-----------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| 📖<br/>(38&nbsp;of&nbsp;545)   | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto                | **[Reinforcement Learning](#reinforcement-learning)**                                      |
-| 📚                             | **Data Smart: Using Data Science to Transform Information into Insight**         | John W. Foreman                                   | **[Data Science Fundamentals](#machine-learning-fundamentals)**                            |
-| 📚                             | **Data Science from Scratch**                                                    | Joel Grus                                         | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
-| 📚                             | **Python for Data Analysis**                                                     | Wes McKinney                                      | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
-| 📚                             | **Python Data Science Handbook**                                                 | Jake VanderPlas                                   | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
-| 📚                             | **Python Data Science Essentials**                                               | Alberto Boschetti, Luca Massaron                  | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
-| 📚                             | **Data Wrangling with Python**                                                   | Jacqueline Kazil, Katharine Jarmul                | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
-| 📚                             | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
-| 📚                             | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                    | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
-| 📚                             | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop                             | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
-| 📚                             | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
-| 📚                             | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville    | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
-| 📚                             | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
-| 📚                             | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                      | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
-| 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                                     | **[Probability Theory](#probability-theory), [Statistics](#statistics)**                   |
-| 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                                   | **[Algebra](#algebra)**                                                                    |
-| 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                                   | **[Algebra](#algebra)**                                                                    |
-| 📚                             | **Introduction to Algebra. In three parts. Part 3. Basic structures of algebra** | A. I. Kostrikin                                   | **[Algebra](#algebra)**                                                                    |
+|                                | Title                                                                            | Author(s)                                                      | Field(s)                                                                                   |
+| :----------------------------: | -------------------------------------------------------------------------------- | :------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
+| 📖<br/>(38&nbsp;of&nbsp;545)   | **Reinforcement Learning: An Introduction**                                      | Richard S. Sutton, Andrew G. Barto                             | **[Reinforcement Learning](#reinforcement-learning)**                                      |
+| 📚                             | **Data Smart: Using Data Science to Transform Information into Insight**         | John W. Foreman                                                | **[Data Science Fundamentals](#machine-learning-fundamentals)**                            |
+| 📚                             | **Data Science from Scratch**                                                    | Joel Grus                                                      | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **Python for Data Analysis**                                                     | Wes McKinney                                                   | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **Python Data Science Handbook**                                                 | Jake VanderPlas                                                | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **Python Data Science Essentials**                                               | Alberto Boschetti, Luca Massaron                               | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **Data Wrangling with Python**                                                   | Jacqueline Kazil, Katharine Jarmul                             | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **An Introduction to Statistical Learning**                                      | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
+| 📚                             | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
+| 📚                             | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
+| 📚                             | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop                                          | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
+| 📚                             | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                                | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
+| 📚                             | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
+| 📚                             | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                             | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
+| 📚                             | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
+| 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                                                  | **[Probability Theory](#probability-theory), [Statistics](#statistics)**                   |
+| 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                                                | **[Algebra](#algebra)**                                                                    |
+| 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                                                | **[Algebra](#algebra)**                                                                    |
+| 📚                             | **Introduction to Algebra. In three parts. Part 3. Basic structures of algebra** | A. I. Kostrikin                                                | **[Algebra](#algebra)**                                                                    |
 
 ## Mathematics
 
@@ -109,15 +110,16 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 #### Machine Learning Fundamentals
 
-|      | Title                                                                            | Author(s)                                         |
-| :--: | -------------------------------------------------------------------------------- | :-----------------------------------------------: |
-| 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman |
-| 📚   | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                    |
-| 📚   | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop                             |
-| 📚   | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                   |
-| 📚   | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville    |
-| 📚   | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                |
-| 📚   | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                      |
+|      | Title                                                                            | Author(s)                                                      |
+| :--: | -------------------------------------------------------------------------------- | :------------------------------------------------------------: |
+| 📚   | **An Introduction to Statistical Learning**                                      | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+| 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman              |
+| 📚   | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**           | Aurélien Géron                                                 |
+| 📚   | **Pattern Recognition and Machine Learning**                                     | Christopher M. Bishop                                          |
+| 📚   | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                                |
+| 📚   | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville                 |
+| 📚   | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                             |
+| 📚   | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                                   |
 
 #### Reinforcement Learning
 
