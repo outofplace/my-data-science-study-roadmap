@@ -48,6 +48,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville    | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
+| 📚                             | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                      | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Probability Theory and Mathematical Statistics**                               | V. E. Gmurman                                     | **[Probability Theory](#probability-theory), [Statistics](#statistics)**                   |
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**           | A. I. Kostrikin                                   | **[Algebra](#algebra)**                                                                    |
 | 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**              | A. I. Kostrikin                                   | **[Algebra](#algebra)**                                                                    |
@@ -79,12 +80,13 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Python
 
-|      | Title                            | Author(s)                          |
-| :--: | -------------------------------- | :--------------------------------: |
-| 📚   | **Data Science from Scratch**    | Joel Grus                          |
-| 📚   | **Python for Data Analysis**     | Wes McKinney                       |
-| 📚   | **Python Machine Learning**      | Sebastian Raschka, Vahid Mirjalili |
-| 📚   | **Python Data Science Handbook** | Jake VanderPlas                    |
+|      | Title                                            | Author(s)                          |
+| :--: | ------------------------------------------------ | :--------------------------------: |
+| 📚   | **Data Science from Scratch**                    | Joel Grus                          |
+| 📚   | **Python for Data Analysis**                     | Wes McKinney                       |
+| 📚   | **Python Machine Learning**                      | Sebastian Raschka, Vahid Mirjalili |
+| 📚   | **Python Data Science Handbook**                 | Jake VanderPlas                    |
+| 📚   | **Introduction to Machine Learning with Python** | Andreas Mueller, Sarah Guido       |
 
 ## Data Science
 
@@ -109,6 +111,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Machine Learning: A Probabilistic Perspective**                                | Kevin P. Murphy                                   |
 | 📚   | **Deep Learning**                                                                | Ian Goodfellow, Yoshua Bengio, Aaron Courville    |
 | 📚   | **Python Machine Learning**                                                      | Sebastian Raschka, Vahid Mirjalili                |
+| 📚   | **Introduction to Machine Learning with Python**                                 | Andreas Mueller, Sarah Guido                      |
 
 #### Reinforcement Learning
 
