@@ -135,9 +135,10 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Data Mining
 
-|      | Title                                    | Author(s)                    |
-| :--: | ---------------------------------------- | :--------------------------: |
-| 📚   | **Data Mining: Concepts and Techniques** | Jiawei Han, Micheline Kamber |
+|      | Title                                                                            | Author(s)                                         |
+| :--: | -------------------------------------------------------------------------------- | :-----------------------------------------------: |
+| 📚   | **Data Mining: Concepts and Techniques**                                         | Jiawei Han, Micheline Kamber                      |
+| 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman |
 
 ### Machine Learning
 
