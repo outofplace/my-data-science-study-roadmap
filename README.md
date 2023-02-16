@@ -24,6 +24,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 - **[Programming](#programming)**
   - **[Python](#python)**
   - **[R](#r)**
+  - **[Stan](#stan)**
 - **[Data Science](#data-science)**
   - **[Data Science Fundamentals](#data-science-fundamentals)**
   - **[Data Mining](#data-mining)**
@@ -54,6 +55,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Wrangling with Python**                                                            | Jacqueline Kazil, Katharine Jarmul                                             | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Probabilistic Programming & Bayesian Methods for Hackers**                              | Cameron Davidson-Pilon                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Hands-On Data Science for Marketing**                                                   | Yohann Abrahams                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
+| 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                 | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
 | 📚                             | **Data Mining: Concepts and Techniques**                                                  | Jiawei Han, Micheline Kamber                                                   | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Applied Predictive Modeling**                                                           | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **An Introduction to Statistical Learning**                                               | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
@@ -117,9 +119,16 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### R
 
-|      | Title                                                               | Author(s)                                                      |
-| :--: | ------------------------------------------------------------------- | :------------------------------------------------------------: |
-| 📚   | **An Introduction to Statistical Learning: with Applications in R** | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+|      | Title                                                                     | Author(s)                                                      |
+| :--: | ------------------------------------------------------------------------- | :------------------------------------------------------------: |
+| 📚   | **An Introduction to Statistical Learning: with Applications in R**       | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+| 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan** | Richard McElreath                                              |
+
+### Stan
+
+|      | Title                                                                     | Author(s)         |
+| :--: | ------------------------------------------------------------------------- | :---------------: |
+| 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan** | Richard McElreath |
 
 ## Data Science
 
@@ -140,6 +149,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science for Social Good**                                                  | Jake Porway                                                                    |
 | 📚   | **The Art of Data Science**                                                       | Roger D. Peng, Elizabeth Matsui                                                |
 | 📚   | **Hands-On Data Science for Marketing**                                           | Yohann Abrahams                                                                |
+| 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**         | Richard McElreath                                                              |
 
 ### Data Mining
 
