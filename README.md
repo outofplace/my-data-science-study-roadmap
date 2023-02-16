@@ -77,6 +77,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Science from Scratch with Python: A Step By Step Guide for Beginner's and Faster Way To Learn Python In 7 Days**            | Richard Wilson                                                                 | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Science Projects with Python**                                                                                              | Stephen Klosterman                                                             | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Science and Analytics with Python**                                                                                         | Jesus Rogel-Salazar                                                            | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
+| 📚                             | **Hands-On Data Science for Marketing: Improve Your Marketing Strategies with Machine Learning Using Python and R**                | Yoon Hyup Hwang                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**, **[R](#r)**      |
 | 📚                             | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                                                              | Andrew Gelman, Jennifer Hill                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Practical Statistics for Data Scientists**                                                                                       | Peter Bruce, Andrew Bruce                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**                                      | Deborah Nolan, Duncan Temple Lang                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
@@ -156,17 +157,19 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science Projects with Python**                                                                                              | Stephen Klosterman                      |
 | 📚   | **Data Science and Analytics with Python**                                                                                         | Jesus Rogel-Salazar                     |
 | 📚   | **Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow** | Anirudh Koul, Siddha Ganju, Meher Kasam |
+| 📚   | **Hands-On Data Science for Marketing: Improve Your Marketing Strategies with Machine Learning Using Python and R**                | Yoon Hyup Hwang                         |
 
 ### R
 
-|      | Title                                                                                         | Author(s)                                                      |
-| :--: | --------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
-| 📚   | **An Introduction to Statistical Learning: with Applications in R**                           | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
-| 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                     | Richard McElreath                                              |
-| 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                         | Andrew Gelman, Jennifer Hill                                   |
-| 📚   | **Practical Statistics for Data Scientists**                                                  | Peter Bruce, Andrew Bruce                                      |
-| 📚   | **R Graphics Cookbook**                                                                       | Winston Chang                                                  |
-| 📚   | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving** | Deborah Nolan, Duncan Temple Lang                              |
+|      | Title                                                                                                               | Author(s)                                                      |
+| :--: | ------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
+| 📚   | **An Introduction to Statistical Learning: with Applications in R**                                                 | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+| 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                                           | Richard McElreath                                              |
+| 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                                               | Andrew Gelman, Jennifer Hill                                   |
+| 📚   | **Practical Statistics for Data Scientists**                                                                        | Peter Bruce, Andrew Bruce                                      |
+| 📚   | **R Graphics Cookbook**                                                                                             | Winston Chang                                                  |
+| 📚   | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**                       | Deborah Nolan, Duncan Temple Lang                              |
+| 📚   | **Hands-On Data Science for Marketing: Improve Your Marketing Strategies with Machine Learning Using Python and R** | Yoon Hyup Hwang                                                |
 
 ### Stan
 
@@ -218,6 +221,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**                           | Deborah Nolan, Duncan Temple Lang                                              |
 | 📚   | **Data-Driven: Creating a Data Culture**                                                                                | Hilary Mason, DJ Patil                                                         |
 | 📚   | **Data Science for Healthcare: Methodologies and Applications**                                                         | Dr. Errol Ozdalga, Dr. Rezaul Karim, Dr. Adnan Shaout                          |
+| 📚   | **Hands-On Data Science for Marketing: Improve Your Marketing Strategies with Machine Learning Using Python and R**     | Yoon Hyup Hwang                                                                |
 
 ### Big Data
 
