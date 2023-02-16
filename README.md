@@ -23,6 +23,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
   - **[Statistics](#statistics)**
 - **[Programming](#programming)**
   - **[Python](#python)**
+  - **[R](#r)**
 - **[Data Science](#data-science)**
   - **[Data Science Fundamentals](#data-science-fundamentals)**
   - **[Machine Learning](#machine-learning)**
@@ -61,6 +62,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Python Machine Learning**                                                       | Sebastian Raschka, Vahid Mirjalili                                             | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Introduction to Machine Learning with Python**                                  | Andreas Mueller, Sarah Guido                                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
 | 📚                             | **Hands-On Unsupervised Learning Using Python**                                   | Ankur A. Patel                                                                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)** |
+| 📚                             | **An Introduction to Statistical Learning: with Applications in R**               | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[R](#r)**           |
 | 📚                             | **Probability Theory and Mathematical Statistics**                                | V. E. Gmurman                                                                  | **[Probability Theory](#probability-theory), [Statistics](#statistics)**                   |
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**            | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                    |
 | 📚                             | **Introduction to Algebra. In three parts. Part 2. Linear Algebra**               | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                    |
@@ -104,6 +106,12 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Wrangling with Python**                   | Jacqueline Kazil, Katharine Jarmul |
 | 📚   | **Hands-On Unsupervised Learning Using Python**  | Ankur A. Patel                     |
 
+### R
+
+|      | Title                                                               | Author(s)                                                      |
+| :--: | ------------------------------------------------------------------- | :------------------------------------------------------------: |
+| 📚   | **An Introduction to Statistical Learning: with Applications in R** | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+
 ## Data Science
 
 ### Data Science Fundamentals
@@ -140,6 +148,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Gaussian Processes for Machine Learning**                                      | Carl Edward Rasmussen, Christopher K. I. Williams              |
 | 📚   | **Hands-On Unsupervised Learning Using Python**                                  | Ankur A. Patel                                                 |
 | 📚   | **Deep Learning for Computer Vision**                                            | Rajalingappaa Shanmugamani                                     |
+| 📚   | **An Introduction to Statistical Learning: with Applications in R**              | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
 
 #### Reinforcement Learning
 
