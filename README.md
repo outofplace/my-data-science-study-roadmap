@@ -106,6 +106,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists**                                             | Alice Zheng, Amanda Casari                                                     | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms**                                            | Nikhil Buduma, Nicholas Locascio                                               | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **Mastering Machine Learning Algorithms: Expert techniques to implement popular machine learning algorithms and fine-tune your models** | Giuseppe Bonaccorso                                                            | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
+| 📚                             | **Python Machine Learning: A Hands-On Beginner's Guide to Building Online Models with Scikit-Learn, Keras, and TensorFlow**             | William Sullivan                                                               | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **Python Machine Learning**                                                                                                             | Sebastian Raschka, Vahid Mirjalili                                             | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**           |
 | 📚                             | **Introduction to Machine Learning with Python**                                                                                        | Andreas Mueller, Sarah Guido                                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**           |
 | 📚                             | **Hands-On Unsupervised Learning Using Python**                                                                                         | Ankur A. Patel                                                                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**           |
@@ -163,6 +164,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science and Analytics with Python**                                                                                         | Jesus Rogel-Salazar                     |
 | 📚   | **Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow** | Anirudh Koul, Siddha Ganju, Meher Kasam |
 | 📚   | **Hands-On Data Science for Marketing: Improve Your Marketing Strategies with Machine Learning Using Python and R**                | Yoon Hyup Hwang                         |
+| 📚   | **Python Machine Learning: A Hands-On Beginner's Guide to Building Online Models with Scikit-Learn, Keras, and TensorFlow**        | William Sullivan                        |
 
 ### R
 
@@ -276,6 +278,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists**                                             | Alice Zheng, Amanda Casari                                     |
 | 📚   | **Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms**                                            | Nikhil Buduma, Nicholas Locascio                               |
 | 📚   | **Mastering Machine Learning Algorithms: Expert techniques to implement popular machine learning algorithms and fine-tune your models** | Giuseppe Bonaccorso                                            |
+| 📚   | **Python Machine Learning: A Hands-On Beginner's Guide to Building Online Models with Scikit-Learn, Keras, and TensorFlow**             | William Sullivan                                               |
 
 #### Reinforcement Learning
 
