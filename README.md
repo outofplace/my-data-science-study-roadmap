@@ -93,7 +93,8 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                                                           | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
 | 📚                             | **Data Mining: Concepts and Techniques**                                                                                                | Jiawei Han, Micheline Kamber, Jian Pei                                         | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Data Mining: Practical Machine Learning Tools and Techniques**                                                                        | Ian H. Witten, Eibe Frank, Mark A. Hall                                        | **[Data Mining](#data-mining)**                                                                      |
-| 📚                             | **Mining of Massive Datasets**                                                                                                          | Ian H. Witten, Eibe Frank, Mark A. Hall                                        | **[Data Mining](#data-mining)**                                                                      |
+| 📚                             | **Mining of Massive Datasets**                                                                                                          | Jure Leskovec, Anand Rajaraman, Jeff Ullman                                    | **[Data Mining](#data-mining)**                                                                      |
+| 📚                             | **Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More**                                           | Matthew A. Russell                                                             | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                                                                       | Mohammed J. Zaki, Wagner Meira Jr.                                             | **[Data Mining](#data-mining)**, **[Python](#python)**                                               |
 | 📚                             | **Applied Predictive Modeling**                                                                                                         | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **An Introduction to Statistical Learning**                                                                                             | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
@@ -252,13 +253,14 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Data Mining
 
-|      | Title                                                                            | Author(s)                                         |
-| :--: | -------------------------------------------------------------------------------- | :-----------------------------------------------: |
-| 📚   | **Data Mining: Concepts and Techniques**                                         | Jiawei Han, Micheline Kamber, Jian Pei            |
-| 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman |
-| 📚   | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                | Mohammed J. Zaki, Wagner Meira Jr.                |
-| 📚   | **Data Mining: Practical Machine Learning Tools and Techniques**                 | Ian H. Witten, Eibe Frank, Mark A. Hall           |
-| 📚   | **Mining of Massive Datasets**                                                   | Ian H. Witten, Eibe Frank, Mark A. Hall           |
+|      | Title                                                                                         | Author(s)                                         |
+| :--: | --------------------------------------------------------------------------------------------- | :-----------------------------------------------: |
+| 📚   | **Data Mining: Concepts and Techniques**                                                      | Jiawei Han, Micheline Kamber, Jian Pei            |
+| 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction**              | Trevor Hastie, Robert Tibshirani, Jerome Friedman |
+| 📚   | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                             | Mohammed J. Zaki, Wagner Meira Jr.                |
+| 📚   | **Data Mining: Practical Machine Learning Tools and Techniques**                              | Ian H. Witten, Eibe Frank, Mark A. Hall           |
+| 📚   | **Mining of Massive Datasets**                                                                | Jure Leskovec, Anand Rajaraman, Jeff Ullman       |
+| 📚   | **Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More** | Matthew A. Russell                                |
 
 ### Machine Learning
 
