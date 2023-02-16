@@ -62,6 +62,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Practical Statistics for Data Scientists**                                                     | Peter Bruce, Andrew Bruce                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                        | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
 | 📚                             | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data** | EMC Education Services                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Big Data](#big-data)**               |
+| 📚                             | **R Graphics Cookbook**                                                                          | Winston Chang                                                                  | **[R](#r)**                                                                                          |
 | 📚                             | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                    | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
 | 📚                             | **Data Mining: Concepts and Techniques**                                                         | Jiawei Han, Micheline Kamber, Jian Pei                                         | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Applied Predictive Modeling**                                                                  | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
@@ -133,6 +134,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan** | Richard McElreath                                              |
 | 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**     | Andrew Gelman, Jennifer Hill                                   |
 | 📚   | **Practical Statistics for Data Scientists**                              | Peter Bruce, Andrew Bruce                                      |
+| 📚   | **R Graphics Cookbook**                                                   | Winston Chang                                                  |
 
 ### Stan
 
