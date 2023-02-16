@@ -112,6 +112,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Introduction to Machine Learning with Python**                                                                                        | Andreas Mueller, Sarah Guido                                                   | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**           |
 | 📚                             | **Hands-On Unsupervised Learning Using Python**                                                                                         | Ankur A. Patel                                                                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**           |
 | 📚                             | **Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow**      | Anirudh Koul, Siddha Ganju, Meher Kasam                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**           |
+| 📚                             | **Deep Learning with Python**                                                                                                           | Francois Chollet                                                               | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**           |
 | 📚                             | **An Introduction to Statistical Learning: with Applications in R**                                                                     | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[R](#r)**                     |
 | 📚                             | **Probability Theory and Mathematical Statistics**                                                                                      | V. E. Gmurman                                                                  | **[Probability Theory](#probability-theory), [Statistics](#statistics)**                             |
 | 📚                             | **Introduction to Algebra. In three parts. Part 1. Basics of Algebra**                                                                  | A. I. Kostrikin                                                                | **[Algebra](#algebra)**                                                                              |
@@ -166,6 +167,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow** | Anirudh Koul, Siddha Ganju, Meher Kasam |
 | 📚   | **Hands-On Data Science for Marketing: Improve Your Marketing Strategies with Machine Learning Using Python and R**                | Yoon Hyup Hwang                         |
 | 📚   | **Python Machine Learning: A Hands-On Beginner's Guide to Building Online Models with Scikit-Learn, Keras, and TensorFlow**        | William Sullivan                        |
+| 📚   | **Deep Learning with Python**                                                                                                      | Francois Chollet                        |
 
 ### R
 
@@ -282,6 +284,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms**                                            | Nikhil Buduma, Nicholas Locascio                               |
 | 📚   | **Mastering Machine Learning Algorithms: Expert techniques to implement popular machine learning algorithms and fine-tune your models** | Giuseppe Bonaccorso                                            |
 | 📚   | **Python Machine Learning: A Hands-On Beginner's Guide to Building Online Models with Scikit-Learn, Keras, and TensorFlow**             | William Sullivan                                               |
+| 📚   | **Deep Learning with Python**                                                                                                           | Francois Chollet                                               |
 
 #### Reinforcement Learning
 
