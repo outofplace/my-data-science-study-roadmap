@@ -55,6 +55,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Wrangling with Python**                                                            | Jacqueline Kazil, Katharine Jarmul                                             | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Probabilistic Programming & Bayesian Methods for Hackers**                              | Cameron Davidson-Pilon                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Hands-On Data Science for Marketing**                                                   | Yohann Abrahams                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
+| 📚                             | **Data Science for Dummies**                                                              | Lillian Pierson                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                 | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
 | 📚                             | **Data Mining: Concepts and Techniques**                                                  | Jiawei Han, Micheline Kamber                                                   | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Applied Predictive Modeling**                                                           | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
@@ -116,6 +117,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Hands-On Unsupervised Learning Using Python**              | Ankur A. Patel                     |
 | 📚   | **Probabilistic Programming & Bayesian Methods for Hackers** | Cameron Davidson-Pilon             |
 | 📚   | **Hands-On Data Science for Marketing**                      | Yohann Abrahams                    |
+| 📚   | **Data Science for Dummies**                                 | Lillian Pierson                    |
 
 ### R
 
@@ -150,6 +152,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **The Art of Data Science**                                                       | Roger D. Peng, Elizabeth Matsui                                                |
 | 📚   | **Hands-On Data Science for Marketing**                                           | Yohann Abrahams                                                                |
 | 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**         | Richard McElreath                                                              |
+| 📚   | **Data Science for Dummies**                                                      | Lillian Pierson                                                                |
 
 ### Data Mining
 
