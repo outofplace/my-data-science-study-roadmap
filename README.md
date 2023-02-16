@@ -50,7 +50,8 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Python Data Science Handbook**                                                  | Jake VanderPlas                                                                | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
 | 📚                             | **Python Data Science Essentials**                                                | Alberto Boschetti, Luca Massaron                                               | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
 | 📚                             | **Data Wrangling with Python**                                                    | Jacqueline Kazil, Katharine Jarmul                                             | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
-| 📚                             | **Data Mining: Concepts and Techniques**                                          | Jiawei Han, Micheline Kamber                                                   | **[Data Mining](#data-mining)**
+| 📚                             | **Probabilistic Programming & Bayesian Methods for Hackers**                      | Cameron Davidson-Pilon                                                         | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **Data Mining: Concepts and Techniques**                                          | Jiawei Han, Micheline Kamber                                                   | **[Data Mining](#data-mining)**                                                            |
 | 📚                             | **Applied Predictive Modeling**                                                   | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **An Introduction to Statistical Learning**                                       | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction**  | Trevor Hastie, Robert Tibshirani, Jerome Friedman                              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
@@ -97,16 +98,17 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Python
 
-|      | Title                                            | Author(s)                          |
-| :--: | ------------------------------------------------ | :--------------------------------: |
-| 📚   | **Data Science from Scratch**                    | Joel Grus                          |
-| 📚   | **Python for Data Analysis**                     | Wes McKinney                       |
-| 📚   | **Python Machine Learning**                      | Sebastian Raschka, Vahid Mirjalili |
-| 📚   | **Python Data Science Handbook**                 | Jake VanderPlas                    |
-| 📚   | **Introduction to Machine Learning with Python** | Andreas Mueller, Sarah Guido       |
-| 📚   | **Python Data Science Essentials**               | Alberto Boschetti, Luca Massaron   |
-| 📚   | **Data Wrangling with Python**                   | Jacqueline Kazil, Katharine Jarmul |
-| 📚   | **Hands-On Unsupervised Learning Using Python**  | Ankur A. Patel                     |
+|      | Title                                                        | Author(s)                          |
+| :--: | ------------------------------------------------------------ | :--------------------------------: |
+| 📚   | **Data Science from Scratch**                                | Joel Grus                          |
+| 📚   | **Python for Data Analysis**                                 | Wes McKinney                       |
+| 📚   | **Python Machine Learning**                                  | Sebastian Raschka, Vahid Mirjalili |
+| 📚   | **Python Data Science Handbook**                             | Jake VanderPlas                    |
+| 📚   | **Introduction to Machine Learning with Python**             | Andreas Mueller, Sarah Guido       |
+| 📚   | **Python Data Science Essentials**                           | Alberto Boschetti, Luca Massaron   |
+| 📚   | **Data Wrangling with Python**                               | Jacqueline Kazil, Katharine Jarmul |
+| 📚   | **Hands-On Unsupervised Learning Using Python**              | Ankur A. Patel                     |
+| 📚   | **Probabilistic Programming & Bayesian Methods for Hackers** | Cameron Davidson-Pilon             |
 
 ### R
 
@@ -129,6 +131,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Wrangling with Python**                                                    | Jacqueline Kazil, Katharine Jarmul                                             |
 | 📚   | **Bayesian Data Analysis**                                                        | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin |
 | 📚   | **Storytelling with Data: A Data Visualization Guide for Business Professionals** | Cole Nussbaumer Knaflic                                                        |
+| 📚   | **Probabilistic Programming & Bayesian Methods for Hackers**                      | Cameron Davidson-Pilon                                                         |
 
 ### Data Mining
 
