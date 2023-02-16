@@ -77,6 +77,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Science and Analytics with Python**                                                                                         | Jesus Rogel-Salazar                                                            | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                                                              | Andrew Gelman, Jennifer Hill                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Practical Statistics for Data Scientists**                                                                                       | Peter Bruce, Andrew Bruce                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
+| 📚                             | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**                                      | Deborah Nolan, Duncan Temple Lang                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                                                          | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
 | 📚                             | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data**                                   | EMC Education Services                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Big Data](#big-data)**               |
 | 📚                             | **R Graphics Cookbook**                                                                                                            | Winston Chang                                                                  | **[R](#r)**                                                                                          |
@@ -154,13 +155,14 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### R
 
-|      | Title                                                                     | Author(s)                                                      |
-| :--: | ------------------------------------------------------------------------- | :------------------------------------------------------------: |
-| 📚   | **An Introduction to Statistical Learning: with Applications in R**       | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
-| 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan** | Richard McElreath                                              |
-| 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**     | Andrew Gelman, Jennifer Hill                                   |
-| 📚   | **Practical Statistics for Data Scientists**                              | Peter Bruce, Andrew Bruce                                      |
-| 📚   | **R Graphics Cookbook**                                                   | Winston Chang                                                  |
+|      | Title                                                                                         | Author(s)                                                      |
+| :--: | --------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
+| 📚   | **An Introduction to Statistical Learning: with Applications in R**                           | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+| 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                     | Richard McElreath                                              |
+| 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                         | Andrew Gelman, Jennifer Hill                                   |
+| 📚   | **Practical Statistics for Data Scientists**                                                  | Peter Bruce, Andrew Bruce                                      |
+| 📚   | **R Graphics Cookbook**                                                                       | Winston Chang                                                  |
+| 📚   | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving** | Deborah Nolan, Duncan Temple Lang                              |
 
 ### Stan
 
@@ -209,6 +211,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science and Analytics with Python**                                                                              | Jesus Rogel-Salazar                                                            |
 | 📚   | **Data Science and Analytics: A Practical Guide for Non-Scientists**                                                    | David Feldspar                                                                 |
 | 📚   | **The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling**                                            | Ralph Kimball, Margy Ross                                                      |
+| 📚   | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**                           | Deborah Nolan, Duncan Temple Lang                                              |
 
 ### Big Data
 
