@@ -60,7 +60,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                     | Andrew Gelman, Jennifer Hill                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                 | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
 | 📚                             | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**             | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
-| 📚                             | **Data Mining: Concepts and Techniques**                                                  | Jiawei Han, Micheline Kamber                                                   | **[Data Mining](#data-mining)**                                                                      |
+| 📚                             | **Data Mining: Concepts and Techniques**                                                  | Jiawei Han, Micheline Kamber, Jian Pei                                         | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Applied Predictive Modeling**                                                           | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **An Introduction to Statistical Learning**                                               | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction**          | Trevor Hastie, Robert Tibshirani, Jerome Friedman                              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Data Mining](#data-mining)** |
@@ -169,7 +169,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 |      | Title                                                                            | Author(s)                                         |
 | :--: | -------------------------------------------------------------------------------- | :-----------------------------------------------: |
-| 📚   | **Data Mining: Concepts and Techniques**                                         | Jiawei Han, Micheline Kamber                      |
+| 📚   | **Data Mining: Concepts and Techniques**                                         | Jiawei Han, Micheline Kamber, Jian Pei            |
 | 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman |
 
 ### Machine Learning
