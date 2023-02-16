@@ -65,6 +65,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **R Graphics Cookbook**                                                                          | Winston Chang                                                                  | **[R](#r)**                                                                                          |
 | 📚                             | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                    | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
 | 📚                             | **Data Mining: Concepts and Techniques**                                                         | Jiawei Han, Micheline Kamber, Jian Pei                                         | **[Data Mining](#data-mining)**                                                                      |
+| 📚                             | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                                | Mohammed J. Zaki, Wagner Meira Jr.                                             | **[Data Mining](#data-mining)**, **[Python](#python)**                                               |
 | 📚                             | **Applied Predictive Modeling**                                                                  | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **An Introduction to Statistical Learning**                                                      | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction**                 | Trevor Hastie, Robert Tibshirani, Jerome Friedman                              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**, **[Data Mining](#data-mining)** |
@@ -112,19 +113,20 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Python
 
-|      | Title                                                        | Author(s)                          |
-| :--: | ------------------------------------------------------------ | :--------------------------------: |
-| 📚   | **Data Science from Scratch**                                | Joel Grus                          |
-| 📚   | **Python for Data Analysis**                                 | Wes McKinney                       |
-| 📚   | **Python Machine Learning**                                  | Sebastian Raschka, Vahid Mirjalili |
-| 📚   | **Python Data Science Handbook**                             | Jake VanderPlas                    |
-| 📚   | **Introduction to Machine Learning with Python**             | Andreas Mueller, Sarah Guido       |
-| 📚   | **Python Data Science Essentials**                           | Alberto Boschetti, Luca Massaron   |
-| 📚   | **Data Wrangling with Python**                               | Jacqueline Kazil, Katharine Jarmul |
-| 📚   | **Hands-On Unsupervised Learning Using Python**              | Ankur A. Patel                     |
-| 📚   | **Probabilistic Programming & Bayesian Methods for Hackers** | Cameron Davidson-Pilon             |
-| 📚   | **Hands-On Data Science for Marketing**                      | Yohann Abrahams                    |
-| 📚   | **Data Science for Dummies**                                 | Lillian Pierson                    |
+|      | Title                                                             | Author(s)                          |
+| :--: | ----------------------------------------------------------------- | :--------------------------------: |
+| 📚   | **Data Science from Scratch**                                     | Joel Grus                          |
+| 📚   | **Python for Data Analysis**                                      | Wes McKinney                       |
+| 📚   | **Python Machine Learning**                                       | Sebastian Raschka, Vahid Mirjalili |
+| 📚   | **Python Data Science Handbook**                                  | Jake VanderPlas                    |
+| 📚   | **Introduction to Machine Learning with Python**                  | Andreas Mueller, Sarah Guido       |
+| 📚   | **Python Data Science Essentials**                                | Alberto Boschetti, Luca Massaron   |
+| 📚   | **Data Wrangling with Python**                                    | Jacqueline Kazil, Katharine Jarmul |
+| 📚   | **Hands-On Unsupervised Learning Using Python**                   | Ankur A. Patel                     |
+| 📚   | **Probabilistic Programming & Bayesian Methods for Hackers**      | Cameron Davidson-Pilon             |
+| 📚   | **Hands-On Data Science for Marketing**                           | Yohann Abrahams                    |
+| 📚   | **Data Science for Dummies**                                      | Lillian Pierson                    |
+| 📚   | **Data Mining and Analysis: Fundamental Concepts and Algorithms** | Mohammed J. Zaki, Wagner Meira Jr. |
 
 ### R
 
@@ -181,6 +183,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | :--: | -------------------------------------------------------------------------------- | :-----------------------------------------------: |
 | 📚   | **Data Mining: Concepts and Techniques**                                         | Jiawei Han, Micheline Kamber, Jian Pei            |
 | 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman |
+| 📚   | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                | Mohammed J. Zaki, Wagner Meira Jr.                |
 
 ### Machine Learning
 
