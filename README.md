@@ -53,6 +53,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Science on the Google Cloud Platform**                                                                           | Valliappa Lakshmanan, Ryan Gillard, Jordan Tigani                              | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
 | 📚                             | **Data Science at the Command Line**                                                                                    | Jeroen Janssens                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
 | 📚                             | **Data Visualization: A Practical Introduction**                                                                        | Kieran Healy                                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
+| 📚                             | **Statistics for Data Science: A Beginner's Guide to Probability, Statistics, and Bayesian Analysis**                   | Kevin Murphy                                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
 | 📚                             | **Data Science from Scratch**                                                                                           | Joel Grus                                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Python for Data Analysis**                                                                                            | Wes McKinney                                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Python Data Science Handbook**                                                                                        | Jake VanderPlas                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
@@ -206,24 +207,25 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 #### Machine Learning Fundamentals
 
-|      | Title                                                                                     | Author(s)                                                      |
-| :--: | ----------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
-| 📚   | **The Hundred-Page Machine Learning Book**                                                | Andriy Burkov                                                  |
-| 📚   | **Applied Predictive Modeling**                                                           | Max Kuhn, Kjell Johnson                                        |
-| 📚   | **An Introduction to Statistical Learning**                                               | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
-| 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction**          | Trevor Hastie, Robert Tibshirani, Jerome Friedman              |
-| 📚   | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**                    | Aurélien Géron                                                 |
-| 📚   | **Pattern Recognition and Machine Learning**                                              | Christopher M. Bishop                                          |
-| 📚   | **Machine Learning: A Probabilistic Perspective**                                         | Kevin P. Murphy                                                |
-| 📚   | **Deep Learning**                                                                         | Ian Goodfellow, Yoshua Bengio, Aaron Courville                 |
-| 📚   | **Python Machine Learning**                                                               | Sebastian Raschka, Vahid Mirjalili                             |
-| 📚   | **Introduction to Machine Learning with Python**                                          | Andreas Mueller, Sarah Guido                                   |
-| 📚   | **Machine Learning Yearning**                                                             | Andrew Ng                                                      |
-| 📚   | **Gaussian Processes for Machine Learning**                                               | Carl Edward Rasmussen, Christopher K. I. Williams              |
-| 📚   | **Hands-On Unsupervised Learning Using Python**                                           | Ankur A. Patel                                                 |
-| 📚   | **Deep Learning for Computer Vision**                                                     | Rajalingappaa Shanmugamani                                     |
-| 📚   | **An Introduction to Statistical Learning: with Applications in R**                       | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
-| 📚   | **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** | Steven L. Brunton, J. Nathan Kutz                              |
+|      | Title                                                                                                 | Author(s)                                                      |
+| :--: | ----------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
+| 📚   | **The Hundred-Page Machine Learning Book**                                                            | Andriy Burkov                                                  |
+| 📚   | **Applied Predictive Modeling**                                                                       | Max Kuhn, Kjell Johnson                                        |
+| 📚   | **An Introduction to Statistical Learning**                                                           | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+| 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction**                      | Trevor Hastie, Robert Tibshirani, Jerome Friedman              |
+| 📚   | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**                                | Aurélien Géron                                                 |
+| 📚   | **Pattern Recognition and Machine Learning**                                                          | Christopher M. Bishop                                          |
+| 📚   | **Machine Learning: A Probabilistic Perspective**                                                     | Kevin P. Murphy                                                |
+| 📚   | **Deep Learning**                                                                                     | Ian Goodfellow, Yoshua Bengio, Aaron Courville                 |
+| 📚   | **Python Machine Learning**                                                                           | Sebastian Raschka, Vahid Mirjalili                             |
+| 📚   | **Introduction to Machine Learning with Python**                                                      | Andreas Mueller, Sarah Guido                                   |
+| 📚   | **Machine Learning Yearning**                                                                         | Andrew Ng                                                      |
+| 📚   | **Gaussian Processes for Machine Learning**                                                           | Carl Edward Rasmussen, Christopher K. I. Williams              |
+| 📚   | **Hands-On Unsupervised Learning Using Python**                                                       | Ankur A. Patel                                                 |
+| 📚   | **Deep Learning for Computer Vision**                                                                 | Rajalingappaa Shanmugamani                                     |
+| 📚   | **An Introduction to Statistical Learning: with Applications in R**                                   | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
+| 📚   | **Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control**             | Steven L. Brunton, J. Nathan Kutz                              |
+| 📚   | **Statistics for Data Science: A Beginner's Guide to Probability, Statistics, and Bayesian Analysis** | Kevin Murphy                                                   |
 
 #### Reinforcement Learning
 
