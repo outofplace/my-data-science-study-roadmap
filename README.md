@@ -60,6 +60,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Probabilistic Programming & Bayesian Methods for Hackers**                                     | Cameron Davidson-Pilon                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Hands-On Data Science for Marketing**                                                          | Yohann Abrahams                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Science for Dummies**                                                                     | Lillian Pierson                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
+| 📚                             | **Data Science Essentials in Python**                                                            | Dmitry Zinoviev                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                            | Andrew Gelman, Jennifer Hill                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Practical Statistics for Data Scientists**                                                     | Peter Bruce, Andrew Bruce                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                        | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
@@ -129,6 +130,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Hands-On Data Science for Marketing**                           | Yohann Abrahams                    |
 | 📚   | **Data Science for Dummies**                                      | Lillian Pierson                    |
 | 📚   | **Data Mining and Analysis: Fundamental Concepts and Algorithms** | Mohammed J. Zaki, Wagner Meira Jr. |
+| 📚   | **Data Science Essentials in Python**                             | Dmitry Zinoviev                    |
 
 ### R
 
@@ -173,6 +175,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Practical Statistics for Data Scientists**                                                     | Peter Bruce, Andrew Bruce                                                      |
 | 📚   | **Data Science on the Google Cloud Platform**                                                    | Valliappa Lakshmanan, Ryan Gillard, Jordan Tigani                              |
 | 📚   | **Data Science at the Command Line**                                                             | Jeroen Janssens                                                                |
+| 📚   | **Data Science Essentials in Python**                                                            | Dmitry Zinoviev                                                                |
 
 ### Big Data
 
