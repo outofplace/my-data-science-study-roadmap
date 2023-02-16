@@ -46,6 +46,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Bayesian Data Analysis**                                                                | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
 | 📚                             | **Storytelling with Data: A Data Visualization Guide for Business Professionals**         | Cole Nussbaumer Knaflic                                                        | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
 | 📚                             | **Data Science for Social Good**                                                          | Jake Porway                                                                    | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
+| 📚                             | **The Art of Data Science**                                                               | Roger D. Peng, Elizabeth Matsui                                                | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
 | 📚                             | **Data Science from Scratch**                                                             | Joel Grus                                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Python for Data Analysis**                                                              | Wes McKinney                                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Python Data Science Handbook**                                                          | Jake VanderPlas                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
@@ -135,6 +136,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Storytelling with Data: A Data Visualization Guide for Business Professionals** | Cole Nussbaumer Knaflic                                                        |
 | 📚   | **Probabilistic Programming & Bayesian Methods for Hackers**                      | Cameron Davidson-Pilon                                                         |
 | 📚   | **Data Science for Social Good**                                                  | Jake Porway                                                                    |
+| 📚   | **The Art of Data Science**                                                       | Roger D. Peng, Elizabeth Matsui                                                |
 
 ### Data Mining
 
