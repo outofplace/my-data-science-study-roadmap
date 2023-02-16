@@ -63,6 +63,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Science for Dummies**                                                                                            | Lillian Pierson                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Science Essentials in Python**                                                                                   | Dmitry Zinoviev                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Science from Scratch with Python: A Step By Step Guide for Beginner's and Faster Way To Learn Python In 7 Days** | Richard Wilson                                                                 | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
+| 📚                             | **Data Science Projects with Python**                                                                                   | Stephen Klosterman                                                             | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                                                   | Andrew Gelman, Jennifer Hill                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Practical Statistics for Data Scientists**                                                                            | Peter Bruce, Andrew Bruce                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                                               | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
@@ -135,6 +136,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                                                       | Mohammed J. Zaki, Wagner Meira Jr. |
 | 📚   | **Data Science Essentials in Python**                                                                                   | Dmitry Zinoviev                    |
 | 📚   | **Data Science from Scratch with Python: A Step By Step Guide for Beginner's and Faster Way To Learn Python In 7 Days** | Richard Wilson                     |
+| 📚   | **Data Science Projects with Python**                                                                                   | Stephen Klosterman                 |
 
 ### R
 
@@ -182,6 +184,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science Essentials in Python**                                                                                   | Dmitry Zinoviev                                                                |
 | 📚   | **Data Visualization: A Practical Introduction**                                                                        | Kieran Healy                                                                   |
 | 📚   | **Data Science from Scratch with Python: A Step By Step Guide for Beginner's and Faster Way To Learn Python In 7 Days** | Richard Wilson                                                                 |
+| 📚   | **Data Science Projects with Python**                                                                                   | Stephen Klosterman                                                             |
 
 ### Big Data
 
