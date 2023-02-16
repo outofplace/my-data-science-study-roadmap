@@ -26,6 +26,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
   - **[R](#r)**
 - **[Data Science](#data-science)**
   - **[Data Science Fundamentals](#data-science-fundamentals)**
+  - **[Data Mining](#data-mining)**
   - **[Machine Learning](#machine-learning)**
     - **[Machine Learning Fundamentals](#machine-learning-fundamentals)**
     - **[Reinforcement Learning](#reinforcement-learning)**
@@ -49,6 +50,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Python Data Science Handbook**                                                  | Jake VanderPlas                                                                | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
 | 📚                             | **Python Data Science Essentials**                                                | Alberto Boschetti, Luca Massaron                                               | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
 | 📚                             | **Data Wrangling with Python**                                                    | Jacqueline Kazil, Katharine Jarmul                                             | **[Data Science Fundamentals](#machine-learning-fundamentals)**, **[Python](#python)**     |
+| 📚                             | **Data Mining: Concepts and Techniques**                                          | Jiawei Han, Micheline Kamber                                                   | **[Data Mining](#data-mining)**
 | 📚                             | **Applied Predictive Modeling**                                                   | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **An Introduction to Statistical Learning**                                       | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
 | 📚                             | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction**  | Trevor Hastie, Robert Tibshirani, Jerome Friedman                              | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                        |
@@ -127,6 +129,12 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Wrangling with Python**                                                    | Jacqueline Kazil, Katharine Jarmul                                             |
 | 📚   | **Bayesian Data Analysis**                                                        | Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin |
 | 📚   | **Storytelling with Data: A Data Visualization Guide for Business Professionals** | Cole Nussbaumer Knaflic                                                        |
+
+### Data Mining
+
+|      | Title                                    | Author(s)                    |
+| :--: | ---------------------------------------- | :--------------------------: |
+| 📚   | **Data Mining: Concepts and Techniques** | Jiawei Han, Micheline Kamber |
 
 ### Machine Learning
 
