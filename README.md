@@ -84,6 +84,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Practical Statistics for Data Scientists**                                                                                            | Peter Bruce, Andrew Bruce                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**                                           | Deborah Nolan, Duncan Temple Lang                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Data Science and Machine Learning Bootcamp with R**                                                                                   | Jose Portilla                                                                  | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
+| 📚                             | **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**                                                              | Hadley Wickham, Garrett Grolemund                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                                                               | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
 | 📚                             | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data**                                        | EMC Education Services                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Big Data](#big-data)**               |
 | 📚                             | **R Graphics Cookbook**                                                                                                                 | Winston Chang                                                                  | **[R](#r)**                                                                                          |
@@ -178,6 +179,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**                       | Deborah Nolan, Duncan Temple Lang                              |
 | 📚   | **Hands-On Data Science for Marketing: Improve Your Marketing Strategies with Machine Learning Using Python and R** | Yoon Hyup Hwang                                                |
 | 📚   | **Data Science and Machine Learning Bootcamp with R**                                                               | Jose Portilla                                                  |
+| 📚   | **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**                                          | Hadley Wickham, Garrett Grolemund                              |
 
 ### Stan
 
@@ -233,6 +235,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science for Social Scientists**                                                                                  | Mark Padgham, Dimiter Toshkov                                                  |
 | 📚   | **Data Science for Beginners: A Comprehensive Beginner's Guide to Learn Data Science Step-by-Step**                     | J. C. Roberts                                                                  |
 | 📚   | **Data Science and Machine Learning Bootcamp with R**                                                                   | Jose Portilla                                                                  |
+| 📚   | **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**                                              | Hadley Wickham, Garrett Grolemund                                              |
 
 ### Big Data
 
