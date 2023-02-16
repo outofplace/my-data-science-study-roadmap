@@ -69,6 +69,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **R Graphics Cookbook**                                                                          | Winston Chang                                                                  | **[R](#r)**                                                                                          |
 | 📚                             | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                    | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
 | 📚                             | **Data Mining: Concepts and Techniques**                                                         | Jiawei Han, Micheline Kamber, Jian Pei                                         | **[Data Mining](#data-mining)**                                                                      |
+| 📚                             | **Data Mining: Practical Machine Learning Tools and Techniques**                                 | Ian H. Witten, Eibe Frank, Mark A. Hall                                        | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                                | Mohammed J. Zaki, Wagner Meira Jr.                                             | **[Data Mining](#data-mining)**, **[Python](#python)**                                               |
 | 📚                             | **Applied Predictive Modeling**                                                                  | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **An Introduction to Statistical Learning**                                                      | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
@@ -193,6 +194,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Mining: Concepts and Techniques**                                         | Jiawei Han, Micheline Kamber, Jian Pei            |
 | 📚   | **The Elements of Statistical Learning: Data Mining, Inference, and Prediction** | Trevor Hastie, Robert Tibshirani, Jerome Friedman |
 | 📚   | **Data Mining and Analysis: Fundamental Concepts and Algorithms**                | Mohammed J. Zaki, Wagner Meira Jr.                |
+| 📚   | **Data Mining: Practical Machine Learning Tools and Techniques**                 | Ian H. Witten, Eibe Frank, Mark A. Hall           |
 
 ### Machine Learning
 
