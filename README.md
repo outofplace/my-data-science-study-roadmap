@@ -27,6 +27,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
   - **[Stan](#stan)**
 - **[Data Science](#data-science)**
   - **[Data Science Fundamentals](#data-science-fundamentals)**
+  - **[Big Data](#big-data)**
   - **[Data Mining](#data-mining)**
   - **[Machine Learning](#machine-learning)**
     - **[Machine Learning Fundamentals](#machine-learning-fundamentals)**
@@ -58,6 +59,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Data Science for Dummies**                                                              | Lillian Pierson                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                     | Andrew Gelman, Jennifer Hill                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                 | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
+| 📚                             | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**             | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
 | 📚                             | **Data Mining: Concepts and Techniques**                                                  | Jiawei Han, Micheline Kamber                                                   | **[Data Mining](#data-mining)**                                                                      |
 | 📚                             | **Applied Predictive Modeling**                                                           | Max Kuhn, Kjell Johnson                                                        | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                             | **An Introduction to Statistical Learning**                                               | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani                 | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
@@ -156,6 +158,12 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**         | Richard McElreath                                                              |
 | 📚   | **Data Science for Dummies**                                                      | Lillian Pierson                                                                |
 | 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**             | Andrew Gelman, Jennifer Hill                                                   |
+
+### Big Data
+
+|      | Title                                                                         | Author(s)                 |
+| :--: | ----------------------------------------------------------------------------- | :-----------------------: |
+| 📚   | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems** | Nathan Marz, James Warren |
 
 ### Data Mining
 
