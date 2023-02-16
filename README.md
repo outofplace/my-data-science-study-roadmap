@@ -58,6 +58,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                             | **Hands-On Data Science for Marketing**                                                          | Yohann Abrahams                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Science for Dummies**                                                                     | Lillian Pierson                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📚                             | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                            | Andrew Gelman, Jennifer Hill                                                   | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
+| 📚                             | **Practical Statistics for Data Scientists**                                                     | Peter Bruce, Andrew Bruce                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**                             |
 | 📚                             | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan**                        | Richard McElreath                                                              | **[Data Science Fundamentals](#data-science-fundamentals)**, **[R](#r)**, **[Stan](#stan)**          |
 | 📚                             | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data** | EMC Education Services                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Big Data](#big-data)**               |
 | 📚                             | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                    | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
@@ -130,6 +131,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **An Introduction to Statistical Learning: with Applications in R**       | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani |
 | 📚   | **Statistical Rethinking: A Bayesian Course with Examples in R and Stan** | Richard McElreath                                              |
 | 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**     | Andrew Gelman, Jennifer Hill                                   |
+| 📚   | **Practical Statistics for Data Scientists**                              | Peter Bruce, Andrew Bruce                                      |
 
 ### Stan
 
@@ -160,6 +162,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚   | **Data Science for Dummies**                                                                     | Lillian Pierson                                                                |
 | 📚   | **Data Analysis Using Regression and Multilevel/Hierarchical Models**                            | Andrew Gelman, Jennifer Hill                                                   |
 | 📚   | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data** | EMC Education Services                                                         |
+| 📚   | **Practical Statistics for Data Scientists**                                                     | Peter Bruce, Andrew Bruce                                                      |
 
 ### Big Data
 
