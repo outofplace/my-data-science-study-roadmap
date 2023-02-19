@@ -102,6 +102,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | 📚                           | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data**                                                                          | EMC Education Services                                                         | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Big Data](#big-data)**               |
 | 📚                           | **R Graphics Cookbook**                                                                                                                                                   | Winston Chang                                                                  | **[R](#r)**                                                                                          |
 | 📚                           | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                                                                                             | Nathan Marz, James Warren                                                      | **[Big Data](#big-data)**                                                                            |
+| 📚                           | **Learning Spark: Lightning-Fast Big Data Analysis**                                                                                                                      | Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia                   | **[Big Data](#big-data)**                                                                            |
 | 📚                           | **Data Mining: Concepts and Techniques**                                                                                                                                  | Jiawei Han, Micheline Kamber, Jian Pei                                         | **[Data Mining](#data-mining)**                                                                      |
 | 📚                           | **Data Mining: Practical Machine Learning Tools and Techniques**                                                                                                          | Ian H. Witten, Eibe Frank, Mark A. Hall                                        | **[Data Mining](#data-mining)**                                                                      |
 | 📚                           | **Mining of Massive Datasets**                                                                                                                                            | Jure Leskovec, Anand Rajaraman, Jeff Ullman                                    | **[Data Mining](#data-mining)**                                                                      |
@@ -276,10 +277,11 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Big Data
 
-|      | Title                                                                                            | Author(s)                 |
-| :--: | ------------------------------------------------------------------------------------------------ | :-----------------------: |
-| 📚   | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                    | Nathan Marz, James Warren |
-| 📚   | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data** | EMC Education Services    |
+|      | Title                                                                                            | Author(s)                                                    |
+| :--: | ------------------------------------------------------------------------------------------------ | :----------------------------------------------------------: |
+| 📚   | **Big Data: Principles and Best Practices of Scalable Realtime Data Systems**                    | Nathan Marz, James Warren                                    |
+| 📚   | **Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data** | EMC Education Services                                       |
+| 📚   | **Learning Spark: Lightning-Fast Big Data Analysis**                                             | Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia |
 
 ### Data Mining
 
