@@ -43,7 +43,7 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 | :---------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
 | 📖<br/>(102&nbsp;of&nbsp;398) | **Data Science from Scratch**                                                                                                                                             | Joel Grus                                                                      | **[Data Science Fundamentals](#data-science-fundamentals)**, **[Python](#python)**                   |
 | 📖<br/>(38&nbsp;of&nbsp;545)  | **Reinforcement Learning: An Introduction**                                                                                                                               | Richard S. Sutton, Andrew G. Barto                                             | **[Reinforcement Learning](#reinforcement-learning)**                                                |
-| 📖                            | **[Probability Theory Lectures](https://www.youtube.com/playlist?list=PLyBWNG-pZKx7kLBRcNW3HXG05BDUrTQVr)**                                                               | M. E. Shirokov                                                                 | **[Probability Theory](#probability-theory)                                                          |
+| 📖<br/>(1&nbsp;of&nbsp;14)    | **[Probability Theory Lectures](https://www.youtube.com/playlist?list=PLyBWNG-pZKx7kLBRcNW3HXG05BDUrTQVr)**                                                               | M. E. Shirokov                                                                 | **[Probability Theory](#probability-theory)                                                          |
 | 📚                            | **The Hundred-Page Machine Learning Book**                                                                                                                                | Andriy Burkov                                                                  | **[Machine Learning Fundamentals](#machine-learning-fundamentals)**                                  |
 | 📚                            | **Data Science for Business**                                                                                                                                             | Foster Provost, Tom Fawcett                                                    | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
 | 📚                            | **Data Smart: Using Data Science to Transform Information into Insight**                                                                                                  | John W. Foreman                                                                | **[Data Science Fundamentals](#data-science-fundamentals)**                                          |
@@ -176,10 +176,10 @@ Thank you for your interest, and I hope this roadmap serves as an inspiration fo
 
 ### Probability Theory
 
-|      | Title                                                                                                       | Author(s)      |
-| :--: | ----------------------------------------------------------------------------------------------------------- | :------------: |
-| 📖   | **[Probability Theory Lectures](https://www.youtube.com/playlist?list=PLyBWNG-pZKx7kLBRcNW3HXG05BDUrTQVr)** | M. E. Shirokov |
-| 📚   | **Probability Theory and Mathematical Statistics**                                                          | V. E. Gmurman  |
+|                            | Title                                                                                                       | Author(s)      |
+| :------------------------: | ----------------------------------------------------------------------------------------------------------- | :------------: |
+| 📖<br/>(1&nbsp;of&nbsp;14) | **[Probability Theory Lectures](https://www.youtube.com/playlist?list=PLyBWNG-pZKx7kLBRcNW3HXG05BDUrTQVr)** | M. E. Shirokov |
+| 📚                         | **Probability Theory and Mathematical Statistics**                                                          | V. E. Gmurman  |
 
 ### Statistics
 
